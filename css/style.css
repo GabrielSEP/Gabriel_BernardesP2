@@ -1,0 +1,21 @@
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    border: 1px solid black;
+
+}
+#h {
+    text-align-last: center;
+    font-weight: bold;
+}
+input{
+    width: 90%;
+    text-align: center;
+    border: none;
+    outline: none;
+}
